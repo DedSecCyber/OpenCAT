@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "A hierarchical, easy-to-use, powerful configuration module for Python"
+name = "config"
+optional = false
+python-versions = "*"
+version = "0.5.0.post0"
+
+[metadata]
+content-hash = "359ebe2072f062f85092b47cad38877485bb6d763fb3e7b21df1e4403ebb52c5"
+python-versions = "^3.8"
+
+[metadata.files]
+config = [
+    {file = "config-0.5.0.post0-py2.py3-none-any.whl", hash = "sha256:73ea4a8064facc61fcba736be71996aaa7f38a564166a284628b8e8c53444f2e"},
+    {file = "config-0.5.0.post0.zip", hash = "sha256:c7e48f9820758a4ddc23ae3bf10b118959f6fd06018be9eb0e1d9d5a3b227de1"},
+]
